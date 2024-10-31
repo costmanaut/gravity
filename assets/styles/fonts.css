@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Inter Regular';
+    src: url(../fonts/Inter_28pt-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Inter Italic';
+    src: url(../fonts/Inter-Italic-VariableFont.ttf);
+}
+
+@font-face {
+    font-family: 'Inter Regular 28';
+    src: url(../fonts/Inter_28pt-Regular.ttf);
+}

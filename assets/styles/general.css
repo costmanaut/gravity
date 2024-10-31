@@ -1,0 +1,31 @@
+* {
+    font-family: 'Inter Regular';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+body {
+    background: #141619;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 1140px;
+
+}
+
+button {
+    border: none;
+}
